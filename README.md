@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArshJindal-eth
-- 👀 I’m interested in crypto programing
-- 🌱 I’m currently learning javaScript & Solidity & C++ 
+- 👀 I’m interested in Data & crypto
+- 🌱 I’m currently learning Langchain & Huggingface 
 
 <!---
 ArshJindal-eth/ArshJindal-eth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
